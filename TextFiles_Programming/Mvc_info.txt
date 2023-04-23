@@ -1,0 +1,21 @@
+MVC (Framework)
+
+- tempdata maily between action to action.
+- Viewbag.variable should be different for every viewbag.
+- viewdata passing information from action to view (only) typecasted when used. communication is action to action then data are lost.
+
+how to start:
+1: add controller.
+2: add an action to the controller.
+3: add a view to the action.
+
+route can be changed, eg. routing in App_Data --> RouteConfig, index is default.
+
+- viewbag simplest to work with. 
+
+MVC (Core) - helper? dependency injections?
+
+- Partial view is a part of another view.
+- create once use it several times.
+- add model, the controller (properties and contructor)
+- make a List<Student> for example in controller above the first action.

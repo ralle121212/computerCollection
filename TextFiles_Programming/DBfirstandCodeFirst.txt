@@ -1,0 +1,7 @@
+entity framework is a middleware between your database and c#.
+
+classes coverted to database (database first approach). Has the database first.
+
+code first approach (create classes, that are converted to the database(tables and properties)
+
+database code first approach in core (have to install nuget packages (entityframworkCore tools and design))

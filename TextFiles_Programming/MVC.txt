@@ -1,0 +1,58 @@
+controller name will be home and action is privacy, in routin in MVC. 
+- Based on the views folder. 
+- Based on index too. 
+
+
+views
+- can open a view in a view
+-head adding CSS/SaSS styling (can use external styling too or inline)
+- error map is created by default where is easy to find errors when website is live and 
+debugg from there.
+- veiwimports globaly define tag-helpers(namespace, read mroe about, we have helpers here so we don't need to define the namespace 
+all the time) (has technics from Angular and React as they are succesfull frameworks)
+- layout (having tag-helpers, then define controller (ASP action)
+
+- viewstart has the default views that will happen.
+
+- tag-helpers indrouced in ASP.net Core.
+- tag helpers is for server side rendering that create and help rendering HTML elements 
+in Razor pages.
+-  is focused around HTML elements.
+- tag-helpers simplify things (tag-helpers) and (HTML-Helpers)
+- we will work in tag-helpers in MVC.
+
+- action result is MVC APPLICATION OR RAZOR application, razor return page and MVC return view.
+
+-helpers in razor pages
+ - helpers below
+- content
+-file
+-NotFound
+-Page
+-Partial (upphöjt i 2)
+- RedirectToPage, RedirectToPagePermanent, RedirectToPagePreserveMethod, RediretToPagePreserveMethodPermanent
+- (action) viewComponentResult
+
+
+- Helpers in MVC (what we will use) (used i n action results) 
+(can use IActionResult can help in helpers and the returns of view/pages in MVC and Razor)
+
+- view
+-Partialview
+-Redirect
+-RedirectToAction
+-RedirectToRoute
+-Content
+-Json
+-JavaScript
+-File
+-
+
+
+- Hot reload it directly refresh the page, good when designing as you can have page open and hot reload and see changes directly. 
+-all pages umder home in vies.
+
+---> install NuGet Package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation if not already installed. If you not can mange NuGet packages directly on proejct do 
+it from tools and NuGet Mange console and install manually.
+
+-entity framwork is used to manipulate layers?

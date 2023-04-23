@@ -1,0 +1,20 @@
+SQL RULES 
+
+1: PRIMARY KEY NEEDED
+2: NOT NULL
+3: UNIQUE VO VALUE IN THE COLUMN WILL BE REPEATED
+4: DEFUALT
+5: FOREGIN KEY
+
+primary key and foregin key will be connected/linked to sort and create columns and tables 
+with eachother, they will get interconnected a database system with other words.
+
+Most used Data Types
+
+INT
+DECIMAL(6,2) NUMBERS ARE EXAMPLES
+VARCHAR(30) NUMBERS IS THE MAXIMUM AMOUNT OD DATA IT CAN CONTAIN
+DATE -- FORMATTED AS YYYY-MM-DD
+TIMESTAP -- FORMATTED AS 
+'YYYY-MM-DD HH:MM:SS'
+

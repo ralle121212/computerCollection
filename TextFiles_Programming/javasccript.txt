@@ -1,0 +1,28 @@
+JavaScript
+
+- fetch by class or ID
+- it's scripts, Angular and react uses and are built on JavaScript
+- Learn to master with HTML, CSS and Bootstrap to master the front-end
+- back-end c#, python (maybe Ruby? PHP? Golang?)
+
+start with <script> on the body then HTML. 
+
+external scripts cannot contain <script> tag.
+cached javascript scripts can minimaize page load tiem
+
+can dispaly data different ways (four big ways) -- learn all.
+
+- writting into an HTML element using innerHTML - use this by the: id
+example:
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = 5 +6;
+ML = "Welcome to javascript";
+</script>
+
+
+
+- writting into the HTML output using document.write().
+- writting into  an alert box using window.alert().
+-writting into browser console, using console.log()

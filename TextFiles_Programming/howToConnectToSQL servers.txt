@@ -1,0 +1,6 @@
+connect to sql server: (LocalDb)\MSSQLLocalDb
+
+server:(LocalDb)\MSSQLLocalDb;Integrated Security=True
+
+How to get it: view, then sql server object explorer, then expand to find databases what you expand (localDb and so forthh is the server
+you get a data source which is the server.

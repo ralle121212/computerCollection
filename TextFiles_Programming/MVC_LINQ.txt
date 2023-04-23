@@ -1,0 +1,19 @@
+MVC - LINQ
+
+I FRAMEWORK 4.8 (non-support, core tar över nu, för gammla applikationer)
+
+- i views folder finns en annan folder som heter home i den finns 3 filer dessa är razor veiws 
+filer då dem slutar på .cshtml (Razor-views)
+
+- kan klicka på controllers folder och "add" new controller, (i utbildningsvideo tar vi en empty folder)
+det är en scaffolded item.scaffolding lägger till allt "nödvändiga" filer i framework,
+vilket både är bra och dåligt. 
+Applikationen blir tyngre tex om vissa funktioner/scrips ej behövs t.ex.
+i Core gör man allt från början själv o lägger till.
+
+- när vi la till en controller "demo" läggs även i views till en mapp som heter "demo".
+stores the veiws for the demo controller. modiedy views can you do while website is up and see changes (hot reload)
+
+- mvc routing (check up!)
+
+-

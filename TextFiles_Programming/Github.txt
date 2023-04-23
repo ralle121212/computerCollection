@@ -1,0 +1,4 @@
+Github.
+- Can create own organizations.
+- Bin files should be ignored in a repository
+- use https to clone code and use in visual studio "clone respitory"

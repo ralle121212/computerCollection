@@ -1,0 +1,22 @@
+Asp.net Core (have to make all maps, classes and so on)
+
+
+Construcktor, Propertiy and method injection.
+
+start with folder then add interface(IMovieService)
+
+steg !: service minimera kod i controller. Hämtar i från interface, den är connectad med service.
+
+
+user request: model först, sen kontroller sen view.
+
+Interface
+service är all kod, conencted till interface, methoderna är sen i interface. (having a readable controller, lesser code)
+
+sessions: temporarydata, for example shoppingcart
+- Session helper needed.
+- look configure session state (session data)
+- take a look in Program.cs were we need to add builders and app.UseSsession();
+-helpers is a function thath provides a "stödfunktion" for the essensial flow of application.
+- can call methods from anywhere.
+

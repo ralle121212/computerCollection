@@ -1,0 +1,10 @@
+@viewbag.vadSomHelst // efter viewbag kan du använda vilket namn du vill bara du använder det
+i view också.
+
+du kan även i controllern använda c# och exempelvis skriva "string variable = "welcome!"
+sen ViewBag.vadSomHelst = variable
+
+dåanvänder du i view "razor code" efetrsom webbläsaren ej förstår c# o skriver @ViewBag.vadSomHelst
+för att visaa det du vill vissa i just den view:n i detta fall visas då "welcome!"
+
+you can even pass objects and values too in controller to view.

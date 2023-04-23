@@ -1,0 +1,35 @@
+CSS
+inline styling, (inside the element),  if many properties
+they're separated by ; adn in a single diuble qoute " is only styling for that element not more of the same h1 for example is
+only for the h1 is done too.
+
+
+internal: the styling is also done under title and meta like <style> and is applied to all h1 heading you use, example if you
+use multiple h1 heading the style is applied to all. can use element <style{ or class like .h2style
+
+. (dot) in css looks for class name, not element like h2 for example but instead class="h2style" 
+then you will use .h2style{
+
+}
+
+id nästan samma som class men man använder istället hash #, id can not be reused like class, its only for one element.
+gjort like #p1{
+}
+
+
+
+when to use:
+
+binary o = 0000
+1 = 0001
+2=0010
+3=0011
+
+horizontal/vertical menybars/display is avalible, that collapse or not collapse. inline-block/display flex,/ verical-block?
+
+tänk på parent/child att vissa värden ävrver från andra. "properties" flex-properties" flex taking the parents height and width.
+
+kolla style sheet i visual studio code. regel internal overrides the external stylying but not always. Om man vill ändra nåt litet men itne allt, gör inline stylying
+
+
+
